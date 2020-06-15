@@ -30,8 +30,8 @@ eDiary的作用不仅仅在于写日记，您也可以用它来记流水帐、�
 官网地址
 ----------
 http://www.haoxg.net/ediary/index.html
-<br>
+<br><br><br>
 若官网不好下载也可以百度云下：链接：https://pan.baidu.com/s/1QpW7Fau4XBFgFPedcYZj9g  提取码：u4ho
-<br>
+<br><br><br>
 __感谢您的Star (^_^)__
 
